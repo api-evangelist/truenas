@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TrueNAS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://truenas.com/
+TrueNAS provides enterprise-grade, open-source storage solutions, offering both hardware appliances and software-defined storage platforms. Their product line includes the TrueNAS Enterprise series for mission-critical workloads, TrueNAS Community Edition for free use, and a range of scalable options like the F-Series and R-Series. The company focuses on data protection, high performance, and flexible deployment across on-premises, edge, and cloud environments, supporting a wide array of industries from media to healthcare.
+
+**Areas:** Company · Storage · Open-Source · Enterprise · Data-Protection
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://truenas.com/)
+- [Documentation](https://www.truenas.com/docs/)
+- [Getting started](https://www.truenas.com/docs/scale/gettingstarted)
+- [Support](https://www.truenas.com/support/)
+- [Blog](https://www.truenas.com/blog/)
+- [Terms of service](https://www.truenas.com/terms-conditions/)
+- [Privacy policy](https://www.truenas.com/legal/privacy-policy/)
+- [GitHub](https://github.com/truenas/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/truenas/](https://apis.io/providers/truenas/).
